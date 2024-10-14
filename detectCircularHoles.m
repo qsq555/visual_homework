@@ -30,6 +30,10 @@ function [centers,radii] = detectCircularHoles(image)
     end
 
 
+    %% test
+    
+
+
     title('检测到的圆孔');
     hold off;
 end
